@@ -1,11 +1,13 @@
-
+import React from 'react';
 import './App.css';
+import "tachyons";
+
 
 function App() {
   return (
-    <div className="App">
-      <h1>Argentina Apollo</h1>
-      <h6>Might Ighor</h6>
+    <div className="App tc f1">
+      <h1>Mojoyin Aderinto</h1>
+      <h6>Naughty Child</h6>
     </div>
   );
 }
