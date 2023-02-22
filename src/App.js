@@ -6,8 +6,8 @@ import Card from './Card';
 
 function App() {
   return (
-    <div className="App tc f1">
-      <Card />
+    <div className="">
+      <Card name="Akin" />
     </div>
   );
 }
